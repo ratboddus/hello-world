@@ -1,0 +1,541 @@
+System Information
+
+Time of this report=2019.08.20-13:24:11.804 (GMT)
+Computer Name=oc3605453406.ibm.com
+Computer Model/Type=20BUS39E0M
+Computer Serial Number=PC0DLUV8
+Computer OEM=LENOVO
+Operating System=IBM C4EB for Linux 0.0, Kernel 3.10.0
+CPU Description=Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+Boot Time=Mon 19 Aug 2019 05:34:46 GMT
+Time Zone=-5:30
+Language=en
+Logged User=ratna
+Windows Domain=Linux
+Network Domain=(none)
+Virtual Memory Total=31494.63 MB.
+Virtual Memory Free=20162.19 MB.
+Physical Memory Total=15746.63 MB.
+Physical Memory Free=5320.09 MB.
+Swap Memory Total=15748.00 MB.
+Swap Memory Free=14842.11 MB.
+Swap File/Partition=/dev/mapper/vg_oc4740618056-lv_swap
+**** Network Adapter 0 (Active)****
+Name=lo
+Topology=loopback
+Speed=0 KBits
+HW Address (MAC)=00:00:00:00:00:00
+IP Address=127.0.0.1
+Subnet Mask=255.0.0.0
+IP Address=::1/128
+**** Network Adapter 1 (Active)****
+Name=enp0s25
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=50:7B:9D:F7:83:BC
+**** Network Adapter 2 (Active)****
+Name=wlp3s0
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=48:45:20:FC:68:B3
+IP Address=9.193.117.245
+Subnet Mask=255.255.255.0
+IP Address=fe80::4a45:20ff:fefc:68b3/64
+Gateway=9.193.117.1
+Gateway=fe80::1
+**** Network Adapter 3 (Active)****
+Name=virbr1
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=00:16:3E:55:24:03
+IP Address=192.168.123.1
+Subnet Mask=255.255.255.0
+**** Network Adapter 4 (Inactive)****
+Name=virbr1-nic
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=00:16:3E:55:24:03
+**** Network Adapter 5 (Active)****
+Name=virbr0
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=00:16:3E:53:25:F2
+IP Address=192.168.122.1
+Subnet Mask=255.255.255.0
+**** Network Adapter 6 (Inactive)****
+Name=virbr0-nic
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=00:16:3E:53:25:F2
+**** Network Adapter 7 (Active)****
+Name=br-e93e5e325c7f
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=02:42:91:33:CA:30
+IP Address=172.20.0.1
+Subnet Mask=255.255.0.0
+IP Address=fe80::42:91ff:fe33:ca30/64
+**** Network Adapter 8 (Active)****
+Name=br-08e99a9a143a
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=02:42:52:3F:CC:8F
+IP Address=172.21.0.1
+Subnet Mask=255.255.0.0
+IP Address=fe80::42:52ff:fe3f:cc8f/64
+**** Network Adapter 9 (Active)****
+Name=br-737ad82c57ec
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=02:42:87:A4:17:9E
+IP Address=172.18.0.1
+Subnet Mask=255.255.0.0
+IP Address=fe80::42:87ff:fea4:179e/64
+**** Network Adapter 10 (Active)****
+Name=br-8e72473f3de4
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=02:42:14:D8:F6:F0
+IP Address=172.22.0.1
+Subnet Mask=255.255.0.0
+IP Address=fe80::42:14ff:fed8:f6f0/64
+**** Network Adapter 11 (Active)****
+Name=docker0
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=02:42:D7:DA:0E:16
+IP Address=172.17.0.1
+Subnet Mask=255.255.0.0
+**** Network Adapter 12 (Active)****
+Name=br-c992d2e23666
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=02:42:24:AB:18:F8
+IP Address=172.19.0.1
+Subnet Mask=255.255.0.0
+IP Address=fe80::42:24ff:feab:18f8/64
+**** Network Adapter 13 (Active)****
+Name=vethc1b346a
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=62:A9:ED:19:D0:00
+IP Address=fe80::60a9:edff:fe19:d000/64
+**** Network Adapter 14 (Active)****
+Name=veth776c5d3
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=66:0E:19:6F:44:FE
+IP Address=fe80::640e:19ff:fe6f:44fe/64
+**** Network Adapter 15 (Active)****
+Name=veth6d98e83
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=F6:06:C6:BA:6B:37
+IP Address=fe80::f406:c6ff:feba:6b37/64
+**** Network Adapter 16 (Active)****
+Name=vethd4a0b0a
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=2E:0A:5F:9A:22:6B
+IP Address=fe80::2c0a:5fff:fe9a:226b/64
+**** Network Adapter 17 (Active)****
+Name=vethcbe6cb1
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=C6:31:63:D5:48:B5
+IP Address=fe80::c431:63ff:fed5:48b5/64
+**** Network Adapter 18 (Active)****
+Name=vethdb0a72c
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=9E:B0:DC:9F:22:10
+IP Address=fe80::9cb0:dcff:fe9f:2210/64
+**** Network Adapter 19 (Active)****
+Name=veth942a8fb
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=B6:45:0C:FB:CC:E6
+IP Address=fe80::b445:cff:fefb:cce6/64
+**** Network Adapter 20 (Active)****
+Name=veth275558a
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=F2:20:A9:A7:C2:74
+IP Address=fe80::f020:a9ff:fea7:c274/64
+**** Network Adapter 21 (Active)****
+Name=veth0e6ded7
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=6E:9A:27:80:19:1F
+IP Address=fe80::6c9a:27ff:fe80:191f/64
+**** Network Adapter 22 (Active)****
+Name=vnet0
+Topology=ethernet
+Speed=0 KBits
+HW Address (MAC)=FE:54:00:6A:55:7F
+IP Address=fe80::fc54:ff:fe6a:557f/64
+**** Volume 0 ****
+Mount Point=/
+Total Space=486645.24 MB
+Free Space=131996.18 MB
+**** Volume 1 ****
+Mount Point=/boot
+Total Space=1015.31 MB
+Free Space=838.10 MB
+*** Processes List (PID/PPID+NAME+USER:GROUP+TTY or SESSION+FULL COMMAND) ***
+1/0 + systemd + root:root + 0 + /usr/lib/systemd/systemd --switched-root --system --deserialize 23
+2/0 + kthreadd + root:root + 0 + 
+3/2 + ksoftirqd/0 + root:root + 0 + 
+5/2 + kworker/0:0H + root:root + 0 + 
+7/2 + migration/0 + root:root + 0 + 
+8/2 + rcu_bh + root:root + 0 + 
+9/2 + rcu_sched + root:root + 0 + 
+10/2 + lru-add-drain + root:root + 0 + 
+11/2 + watchdog/0 + root:root + 0 + 
+12/2 + watchdog/1 + root:root + 0 + 
+13/2 + migration/1 + root:root + 0 + 
+14/2 + ksoftirqd/1 + root:root + 0 + 
+16/2 + kworker/1:0H + root:root + 0 + 
+17/2 + watchdog/2 + root:root + 0 + 
+18/2 + migration/2 + root:root + 0 + 
+19/2 + ksoftirqd/2 + root:root + 0 + 
+21/2 + kworker/2:0H + root:root + 0 + 
+22/2 + watchdog/3 + root:root + 0 + 
+23/2 + migration/3 + root:root + 0 + 
+24/2 + ksoftirqd/3 + root:root + 0 + 
+26/2 + kworker/3:0H + root:root + 0 + 
+28/2 + kdevtmpfs + root:root + 0 + 
+29/2 + netns + root:root + 0 + 
+30/2 + khungtaskd + root:root + 0 + 
+31/2 + writeback + root:root + 0 + 
+32/2 + kintegrityd + root:root + 0 + 
+33/2 + bioset + root:root + 0 + 
+34/2 + bioset + root:root + 0 + 
+35/2 + bioset + root:root + 0 + 
+36/2 + kblockd + root:root + 0 + 
+37/2 + md + root:root + 0 + 
+38/2 + edac-poller + root:root + 0 + 
+39/2 + watchdogd + root:root + 0 + 
+46/2 + kswapd0 + root:root + 0 + 
+47/2 + ksmd + root:root + 0 + 
+48/2 + khugepaged + root:root + 0 + 
+49/2 + crypto + root:root + 0 + 
+57/2 + kthrotld + root:root + 0 + 
+61/2 + kmpath_rdacd + root:root + 0 + 
+62/2 + kaluad + root:root + 0 + 
+63/2 + kpsmoused + root:root + 0 + 
+65/2 + ipv6_addrconf + root:root + 0 + 
+78/2 + deferwq + root:root + 0 + 
+113/2 + kauditd + root:root + 0 + 
+367/2 + ata_sff + root:root + 0 + 
+429/2 + kworker/u17:1 + root:root + 0 + 
+595/2 + scsi_eh_0 + root:root + 0 + 
+596/2 + scsi_tmf_0 + root:root + 0 + 
+597/2 + scsi_eh_1 + root:root + 0 + 
+598/2 + scsi_tmf_1 + root:root + 0 + 
+599/2 + scsi_eh_2 + root:root + 0 + 
+600/2 + scsi_tmf_2 + root:root + 0 + 
+611/2 + i915/signal:0 + root:root + 0 + 
+612/2 + i915/signal:1 + root:root + 0 + 
+613/2 + i915/signal:2 + root:root + 0 + 
+614/2 + i915/signal:6 + root:root + 0 + 
+686/2 + kworker/1:1H + root:root + 0 + 
+882/2 + kdmflush + root:root + 0 + 
+885/2 + bioset + root:root + 0 + 
+886/2 + kcryptd_io + root:root + 0 + 
+887/2 + kcryptd + root:root + 0 + 
+888/2 + dmcrypt_write + root:root + 0 + 
+889/2 + bioset + root:root + 0 + 
+957/2 + kdmflush + root:root + 0 + 
+958/2 + bioset + root:root + 0 + 
+960/2 + kdmflush + root:root + 0 + 
+961/2 + bioset + root:root + 0 + 
+977/2 + kworker/0:1H + root:root + 0 + 
+984/2 + jbd2/dm-2-8 + root:root + 0 + 
+985/2 + ext4-rsv-conver + root:root + 0 + 
+1061/1 + systemd-journal + root:root + 0 + /usr/lib/systemd/systemd-journald
+1075/1 + lvmetad + root:root + 0 + /usr/sbin/lvmetad -f
+1095/1 + systemd-udevd + root:root + 0 + /usr/lib/systemd/systemd-udevd
+1129/2 + ktpacpid + root:root + 0 + 
+1130/2 + kmemstick + root:root + 0 + 
+1159/2 + cfg80211 + root:root + 0 + 
+1188/2 + irq/48-iwlwifi + root:root + 0 + 
+1497/2 + kvm-irqfd-clean + root:root + 0 + 
+1501/2 + kworker/3:1H + root:root + 0 + 
+1516/2 + kworker/2:1H + root:root + 0 + 
+1519/2 + jbd2/sda1-8 + root:root + 0 + 
+1520/2 + ext4-rsv-conver + root:root + 0 + 
+1552/1 + auditd + root:root + 0 + /sbin/auditd
+1559/2 + rpciod + root:root + 0 + 
+1560/2 + xprtiod + root:root + 0 + 
+1579/1 + smartd + root:root + 0 + /usr/sbin/smartd -n -q never
+1584/1 + polkitd + root:root + 0 + /usr/lib/polkit-1/polkitd --no-debug
+1594/1 + cups-ipm-confid + root:root + 0 + /usr/bin/perl /usr/lib/cups/daemon/cups-ipm-confidential
+1602/1 + systemd-machine + root:root + 0 + /usr/lib/systemd/systemd-machined
+1603/1 + systemd-logind + root:root + 0 + /usr/lib/systemd/systemd-logind
+1608/1 + accounts-daemon + root:root + 0 + /usr/libexec/accounts-daemon
+1611/1 + chronyd + root:root + 0 + /usr/sbin/chronyd
+1629/1 + lsmd + root:root + 0 + /usr/bin/lsmd -d
+1636/1 + gssproxy + root:root + 0 + /usr/sbin/gssproxy -D
+1638/1 + alsactl + root:root + 0 + /usr/sbin/alsactl -s -n 19 -c -E ALSA_CONFIG_PATH=/etc/alsa/alsactl.conf --initfile=/lib/alsa/init/00main rdaemon
+1644/1 + rngd + root:root + 0 + /sbin/rngd -f
+1646/1 + BESClient + root:root + 0 + /opt/BESClient/bin/BESClient
+1647/1 + dbus-daemon + root:root + 0 + /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+1664/1 + avahi-daemon + root:root + 0 + 
+1667/1 + rtkit-daemon + root:root + 0 + /usr/libexec/rtkit-daemon
+1669/1 + upowerd + root:root + 0 + /usr/libexec/upowerd
+1671/1 + ModemManager + root:root + 0 + /usr/sbin/ModemManager
+1672/1 + bluetoothd + root:root + 0 + /usr/libexec/bluetooth/bluetoothd
+1676/1 + irqbalance + root:root + 0 + /usr/sbin/irqbalance --foreground
+1677/1664 + avahi-daemon + root:root + 0 + 
+1692/1 + restorecond + root:root + 0 + /usr/sbin/restorecond
+1701/1 + firewalld + root:root + 0 + /usr/bin/python -Es /usr/sbin/firewalld --nofork --nopid
+1709/1 + crond + root:root + 0 + /usr/sbin/crond -n
+1712/1 + ksmtuned + root:root + 0 + /bin/bash /usr/sbin/ksmtuned
+1717/1 + atd + root:root + 0 + /usr/sbin/atd -f
+1730/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P navdefutil -l 10 -b
+1733/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P ntspreld -l 50 -b
+1737/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P rtvscand -l 90 -b
+1740/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P symcfgd -l 20 -b
+1743/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P smcd -l 20 -b
+1746/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P BESClient -l 50 -b
+1749/1 + sav-limitcpu + root:root + 0 + sav-limitcpu -P AutonomyDiSH.exe -l 20 -b
+1755/1 + NetworkManager + root:root + 0 + /usr/sbin/NetworkManager --no-daemon
+1774/1 + tuned + root:root + 0 + /usr/bin/python2 -Es /usr/sbin/tuned -l -P
+1785/1 + cupsd + root:root + 0 + /usr/sbin/cupsd -f
+1788/1 + ibm-kvm-date + root:root + 0 + /usr/bin/python /sbin/ibm-kvm-date
+1799/1 + sshd + root:root + 0 + /usr/sbin/sshd -D
+1806/1 + libvirtd + root:root + 0 + /usr/sbin/libvirtd
+1824/2 + kworker/2:1 + root:root + 0 + 
+1827/1 + containerd + root:root + 0 + /usr/bin/containerd
+1931/1 + python + root:root + 0 + python /opt/ibm/kvm/vmd.py -C /etc/vmd.conf
+1972/1 + colord + colord:colord + 0 + /usr/libexec/colord
+2154/1 + master + root:root + 0 + /usr/libexec/postfix/master -w
+2159/2154 + qmgr + root:root + 0 + qmgr -l -t unix -u
+2254/1 + dnsmasq + root:root + 0 + /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/isolated.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+2255/2254 + dnsmasq + root:root + 0 + /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/isolated.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+2289/1 + dnsmasq + root:root + 0 + /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+2290/2289 + dnsmasq + root:root + 0 + /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+2378/1 + virtlogd + root:root + 0 + /usr/sbin/virtlogd
+2385/1 + wpa_supplicant + root:root + 0 + /usr/sbin/wpa_supplicant -u -f /var/log/wpa_supplicant.log -c /etc/wpa_supplicant/wpa_supplicant.conf -P /var/run/wpa_supplicant.pid
+2401/1 + gdm + root:root + 0 + /usr/sbin/gdm
+2419/2401 + X + root:root + 1025 + /usr/bin/X :0 -background none -noreset -audit 4 -verbose -auth /run/gdm/auth-for-gdm-15sq3j/database -seat seat0 -nolisten tcp vt1
+2601/2154 + cleanup + root:root + 0 + cleanup -z -t unix -u
+2606/2154 + local + root:root + 0 + local -t unix
+2610/2154 + bounce + root:root + 0 + bounce -z -t unix -u
+2635/1 + boltd + root:root + 0 + /usr/libexec/boltd
+2646/2154 + pickup + root:root + 0 + pickup -l -t unix -u
+2946/1 + dockerd + root:root + 0 + /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+2954/1 + rsyslogd + root:root + 0 + /usr/sbin/rsyslogd -n
+2972/1 + drvxd + root:root + 0 + /opt/lrs/drvx/drvxd -f /opt/lrs/drvx/drvstart -p /var/run/drvxd.pid
+3055/1 + obexd + ratna:ratna + 0 + /usr/libexec/bluetooth/obexd
+3059/1 + cbdaemon + root:root + 0 + cbdaemon
+3097/2154 + trivial-rewrite + root:root + 0 + trivial-rewrite -n rewrite -t unix -u
+3116/2 + hnfs + root:root + 0 + 
+3153/1 + gedit + ratna:ratna + 0 + /usr/bin/gedit --gapplication-service
+3219/2 + kworker/1:0 + root:root + 0 + 
+3262/1 + symcfgd + root:root + 0 + /opt/Symantec/symantec_antivirus/symcfgd -l info
+3519/1 + evince + ratna:ratna + 0 + evince /home/ratna/Desktop/avatar/IDT#.pdf
+3529/1 + evinced + ratna:ratna + 0 + /usr/libexec/evinced
+3623/2946 + docker-proxy + root:root + 0 + /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 5432 -container-ip 172.18.0.2 -container-port 5432
+3636/1827 + containerd-shim + root:root + 0 + containerd-shim -namespace moby -workdir /var/lib/containerd/io.containerd.runtime.v1.linux/moby/7f2d206a484b45580eca9187e47b52897fadf4875d91a057d8a145a4d80b4eee -address /run/containerd/containerd.sock -containerd-binary /usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+3675/3636 + postgres + avahi:avahi + 0 + postgres
+3700/2946 + docker-proxy + root:root + 0 + /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 3400 -container-ip 172.19.0.2 -container-port 5432
+3707/2946 + docker-proxy + root:root + 0 + /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 9100 -container-ip 172.20.0.2 -container-port 9080
+3720/2946 + docker-proxy + root:root + 0 + /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 9101 -container-ip 172.22.0.2 -container-port 9080
+3721/1827 + containerd-shim + root:root + 0 + containerd-shim -namespace moby -workdir /var/lib/containerd/io.containerd.runtime.v1.linux/moby/fcba17501d13b80bbcd258cfb6e72e750aa157b9eb48b8cb0c42cf864ffa393d -address /run/containerd/containerd.sock -containerd-binary /usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+3763/3721 + postgres + avahi:avahi + 0 + postgres
+3779/1827 + containerd-shim + root:root + 0 + containerd-shim -namespace moby -workdir /var/lib/containerd/io.containerd.runtime.v1.linux/moby/ef3aba7719aca78c4c6d0fc35638b33a15e49461e6fde4f87e9616e091e047df -address /run/containerd/containerd.sock -containerd-binary /usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+3807/1827 + containerd-shim + root:root + 0 + containerd-shim -namespace moby -workdir /var/lib/containerd/io.containerd.runtime.v1.linux/moby/4ba2b0539ad962ed0f7da1cfb4f0870358cc6b71bf5215cb1fc564c8ff844069 -address /run/containerd/containerd.sock -containerd-binary /usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+3826/3779 + java + root:root + 0 + /opt/ibm/java/jre/bin/java -javaagent:/opt/ol/wlp/bin/tools/ws-javaagent.jar -Djava.awt.headless=true -jar /opt/ol/wlp/bin/tools/ws-server.jar defaultServer
+3852/3807 + java + root:root + 0 + /opt/ibm/java/jre/bin/java -javaagent:/opt/ol/wlp/bin/tools/ws-javaagent.jar -Djava.awt.headless=true -jar /opt/ol/wlp/bin/tools/ws-server.jar defaultServer
+3872/2946 + docker-proxy + root:root + 0 + /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 3401 -container-ip 172.22.0.3 -container-port 5432
+3892/1827 + containerd-shim + root:root + 0 + containerd-shim -namespace moby -workdir /var/lib/containerd/io.containerd.runtime.v1.linux/moby/ecfd145785671c5cd9bd4aa1a393ce0c2122ed9c0a67248c0222ba43d55d3c6f -address /run/containerd/containerd.sock -containerd-binary /usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+3928/3892 + postgres + avahi:avahi + 0 + postgres
+3990/1 + bgmonitor + root:root + 0 + /usr/bin/sterm/bgmonitor/install/bgmonitor
+4040/1 + agnLogd + root:root + 0 + /opt/agns/bin/agnLogd
+4142/6530 + bash + ratna:ratna + 34820 + bash
+4145/1 + agnclientd + root:root + 0 + /opt/agns/bin/agnclientd
+4243/3675 + postgres + avahi:avahi + 0 + 
+4244/3675 + postgres + avahi:avahi + 0 + 
+4245/3675 + postgres + avahi:avahi + 0 + 
+4246/3675 + postgres + avahi:avahi + 0 + 
+4247/3675 + postgres + avahi:avahi + 0 + 
+4248/3675 + postgres + avahi:avahi + 0 + 
+4272/1 + rtvscand + root:root + 0 + /opt/Symantec/symantec_antivirus/rtvscand -l info
+4348/3763 + postgres + avahi:avahi + 0 + 
+4349/3763 + postgres + avahi:avahi + 0 + 
+4350/3763 + postgres + avahi:avahi + 0 + 
+4351/3763 + postgres + avahi:avahi + 0 + 
+4352/3763 + postgres + avahi:avahi + 0 + 
+4353/3763 + postgres + avahi:avahi + 0 + 
+4370/1 + smcd + root:root + 0 + /opt/Symantec/symantec_antivirus/smcd -l info
+4506/3928 + postgres + avahi:avahi + 0 + 
+4507/3928 + postgres + avahi:avahi + 0 + 
+4508/3928 + postgres + avahi:avahi + 0 + 
+4509/3928 + postgres + avahi:avahi + 0 + 
+4510/3928 + postgres + avahi:avahi + 0 + 
+4511/3928 + postgres + avahi:avahi + 0 + 
+5118/2401 + gdm-session-wor + root:root + 0 + "gdm-session-worker [pam/gdm-password]"
+5448/1 + gnome-keyring-d + root:root + 0 + /usr/bin/gnome-keyring-daemon --daemonize --login
+5504/1 + gsd-rfkill + gdm:gdm + 0 + /usr/libexec/gsd-rfkill
+5505/1 + gsd-print-notif + gdm:gdm + 0 + /usr/libexec/gsd-print-notifications
+5512/5118 + gnome-session-b + ratna:ratna + 0 + /usr/libexec/gnome-session-binary
+5545/2 + kworker/u17:2 + root:root + 0 + 
+5685/1 + dbus-launch + ratna:ratna + 0 + dbus-launch --sh-syntax --exit-with-session
+5687/1 + dbus-daemon + ratna:ratna + 0 + /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 8 --session
+5795/1 + gvfsd + ratna:ratna + 0 + /usr/libexec/gvfsd
+5805/1 + gvfsd-fuse + ratna:ratna + 0 + /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+6013/5512 + ibmsaml + ratna:ratna + 0 + /opt/ibm/ibmsam/bin/ibmsaml -q
+6017/5512 + wst-applet + ratna:ratna + 0 + /bin/sh /opt/ibm/c4eb/wst/bin/wst-applet
+6064/1 + dconf-service + ratna:ratna + 0 + /usr/libexec/dconf-service
+6111/6017 + python + ratna:ratna + 0 + /usr/bin/python -c "import wst.linux.applet as wla; wla.cli();"
+6328/1 + at-spi-bus-laun + ratna:ratna + 0 + /usr/libexec/at-spi-bus-launcher
+6341/6328 + dbus-daemon + ratna:ratna + 0 + /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+6361/1 + at-spi2-registr + ratna:ratna + 0 + /usr/libexec/at-spi2-registryd --use-gnome-session
+6456/5512 + gnome-shell + ratna:ratna + 0 + /usr/bin/gnome-shell
+6530/1 + gnome-terminal- + ratna:ratna + 0 + /usr/libexec/gnome-terminal-server
+6599/6456 + syndaemon + ratna:ratna + 0 + syndaemon -i 1.0 -t -K -R
+6603/1 + pulseaudio + ratna:ratna + 0 + /usr/bin/pulseaudio --start --log-target=syslog
+6631/6530 + gnome-pty-helpe + root:root + 0 + gnome-pty-helper
+6701/2 + krfcommd + root:root + 0 + 
+6703/6456 + ibus-daemon + ratna:ratna + 0 + ibus-daemon --xim --panel disable
+6707/6703 + ibus-dconf + ratna:ratna + 0 + /usr/libexec/ibus-dconf
+6709/1 + ibus-x11 + ratna:ratna + 0 + /usr/libexec/ibus-x11 --kill-daemon
+6711/1 + ibus-portal + ratna:ratna + 0 + /usr/libexec/ibus-portal
+6727/1 + xdg-permission- + ratna:ratna + 0 + /usr/libexec/xdg-permission-store
+6729/1 + gnome-shell-cal + ratna:ratna + 0 + /usr/libexec/gnome-shell-calendar-server
+6737/1 + evolution-sourc + ratna:ratna + 0 + /usr/libexec/evolution-source-registry
+6745/1 + goa-daemon + ratna:ratna + 0 + /usr/libexec/goa-daemon
+6749/1 + geoclue + geoclue:geoclue + 0 + /usr/libexec/geoclue -t 5
+6765/1 + goa-identity-se + ratna:ratna + 0 + /usr/libexec/goa-identity-service
+6772/1 + gvfs-udisks2-vo + ratna:ratna + 0 + /usr/libexec/gvfs-udisks2-volume-monitor
+6775/1 + udisksd + root:root + 0 + /usr/libexec/udisks2/udisksd
+6786/1 + gvfs-afc-volume + ratna:ratna + 0 + /usr/libexec/gvfs-afc-volume-monitor
+6793/1 + gvfs-gphoto2-vo + ratna:ratna + 0 + /usr/libexec/gvfs-gphoto2-volume-monitor
+6801/1 + gvfs-goa-volume + ratna:ratna + 0 + /usr/libexec/gvfs-goa-volume-monitor
+6806/1 + gvfs-mtp-volume + ratna:ratna + 0 + /usr/libexec/gvfs-mtp-volume-monitor
+6813/5512 + gsd-power + ratna:ratna + 0 + /usr/libexec/gsd-power
+6816/5512 + gsd-print-notif + ratna:ratna + 0 + /usr/libexec/gsd-print-notifications
+6817/5512 + gsd-rfkill + ratna:ratna + 0 + /usr/libexec/gsd-rfkill
+6818/5512 + gsd-screensaver + ratna:ratna + 0 + /usr/libexec/gsd-screensaver-proxy
+6819/5512 + gsd-sharing + ratna:ratna + 0 + /usr/libexec/gsd-sharing
+6820/5512 + gsd-xsettings + ratna:ratna + 0 + /usr/libexec/gsd-xsettings
+6821/5512 + gsd-wacom + ratna:ratna + 0 + /usr/libexec/gsd-wacom
+6822/5512 + gsd-smartcard + ratna:ratna + 0 + /usr/libexec/gsd-smartcard
+6823/5512 + gsd-sound + ratna:ratna + 0 + /usr/libexec/gsd-sound
+6825/5512 + gsd-account + ratna:ratna + 0 + /usr/libexec/gsd-account
+6826/5512 + gsd-a11y-settin + ratna:ratna + 0 + /usr/libexec/gsd-a11y-settings
+6827/5512 + gsd-clipboard + ratna:ratna + 0 + /usr/libexec/gsd-clipboard
+6830/5512 + gsd-color + ratna:ratna + 0 + /usr/libexec/gsd-color
+6832/5512 + gsd-datetime + ratna:ratna + 0 + /usr/libexec/gsd-datetime
+6834/5512 + gsd-housekeepin + ratna:ratna + 0 + /usr/libexec/gsd-housekeeping
+6836/5512 + gsd-keyboard + ratna:ratna + 0 + /usr/libexec/gsd-keyboard
+6837/5512 + gsd-media-keys + ratna:ratna + 0 + /usr/libexec/gsd-media-keys
+6838/5512 + gsd-mouse + ratna:ratna + 0 + /usr/libexec/gsd-mouse
+6863/1 + gsd-printer + ratna:ratna + 0 + /usr/libexec/gsd-printer
+6910/1 + evolution-calen + ratna:ratna + 0 + /usr/libexec/evolution-calendar-factory
+6914/5512 + tracker-miner-f + ratna:ratna + 0 + /usr/libexec/tracker-miner-fs
+6915/5512 + tracker-miner-u + ratna:ratna + 0 + /usr/libexec/tracker-miner-user-guides
+6918/5512 + gsd-disk-utilit + ratna:ratna + 0 + /usr/libexec/gsd-disk-utility-notify
+6921/5512 + gnome-software + ratna:ratna + 0 + /bin/bash /usr/bin/gnome-software --gapplication-service
+6933/5512 + start-fileshari + ratna:ratna + 0 + /bin/bash /opt/ibm-kvm-samba/bin/start-filesharing.sh
+6934/5512 + tracker-miner-a + ratna:ratna + 0 + /usr/libexec/tracker-miner-apps
+6936/5512 + nautilus-deskto + ratna:ratna + 0 + nautilus-desktop
+6938/5512 + tracker-extract + ratna:ratna + 0 + /usr/libexec/tracker-extract
+6958/1 + tracker-store + ratna:ratna + 0 + /usr/libexec/tracker-store
+6968/6703 + ibus-engine-sim + ratna:ratna + 0 + /usr/libexec/ibus-engine-simple
+6972/6921 + gnome-software + ratna:ratna + 0 + /bin/bash /usr/bin/gnome-software --gapplication-service
+7012/1 + lprpmd + ratna:ratna + 0 + /usr/bin/lprpmd
+7044/5795 + gvfsd-trash + ratna:ratna + 0 + /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+7079/1 + usb-headset-wiz + ratna:ratna + 0 + /usr/bin/python /opt/ibm/c4eb/usb-headset-wizard/bin/usb-headset-wizardd
+7090/6910 + evolution-calen + ratna:ratna + 0 + /usr/libexec/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx6910x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/6910/2
+7200/5795 + gvfsd-burn + ratna:ratna + 0 + /usr/libexec/gvfsd-burn --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+7218/6933 + ibm-file-sharin + ratna:ratna + 0 + /opt/ibm-kvm-samba/bin/ibm-file-sharing -DFS -s /home/ratna/.ibm-kvm-samba/smb.conf
+7248/7218 + smbd-notifyd + ratna:ratna + 0 + /opt/ibm-kvm-samba/bin/ibm-file-sharing -DFS -s /home/ratna/.ibm-kvm-samba/smb.conf
+7249/7218 + cleanupd + ratna:ratna + 0 + /opt/ibm-kvm-samba/bin/ibm-file-sharing -DFS -s /home/ratna/.ibm-kvm-samba/smb.conf
+7257/7218 + lpqd + ratna:ratna + 0 + /opt/ibm-kvm-samba/bin/ibm-file-sharing -DFS -s /home/ratna/.ibm-kvm-samba/smb.conf
+7290/1 + gvfsd-metadata + ratna:ratna + 0 + /usr/libexec/gvfsd-metadata
+7379/1 + evolution-addre + ratna:ratna + 0 + /usr/libexec/evolution-addressbook-factory
+7407/7379 + evolution-addre + ratna:ratna + 0 + /usr/libexec/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx7379x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/7379/2
+7419/1 + userhelper + root:root + 0 + /usr/sbin/userhelper -w savtray
+7433/7419 + savtray + root:root + 0 + savtray
+7468/1 + fwupd + root:root + 0 + /usr/libexec/fwupd/fwupd
+7502/1646 + XBESClientUI + root:root + 0 + XBESClientUI
+7786/2 + kworker/0:1 + root:root + 0 + 
+7814/6456 + nm-openconnect- + root:root + 0 + 
+7815/1 + firefox + ratna:ratna + 0 + /usr/lib64/firefox/firefox
+7852/2 + kworker/1:2 + root:root + 0 + 
+7960/1 + gconfd-2 + ratna:ratna + 0 + /usr/libexec/gconfd-2
+8179/2154 + bounce + root:root + 0 + bounce -z -t unix -u
+8311/2 + kworker/u16:2 + root:root + 0 + 
+8513/2 + kworker/3:1 + root:root + 0 + 
+8627/1 + sametime + ratna:ratna + 0 + /opt/ibm/lotus/Sametime/rcp/eclipse/plugins/com.ibm.rcp.base_6.2.3.20110414-1652/linux/x86/sametime --launcher.suppressErrors -data /home/ratna/lotus/Sametime -configuration /home/ratna/lotus/Sametime/.config -plugincustomization /opt/ibm/lotus/Sametime/rcp/plugin_customization.ini -product com.ibm.collaboration.realtime.branding.sametime -vm /opt/ibm/lotus/Sametime/rcp/eclipse/plugins/com.ibm.rcp.j2se.linux.x86_1.6.0.20110208a-201104111204/jre/bin/classic/libjvm.so -startup /opt/ibm/lotus/Sametime/rcp/eclipse/plugins/com.ibm.rcp.base_6.2.3.20110414-1652/launcher.jar -vmargs -Dorg.eclipse.swt.fixCitrix=false -Dosgi.framework.extensions=com.ibm.rcp.core.logger.frameworkhook -Xms32M -Xmx75M -Drcp.home=/opt/ibm/lotus/Sametime -Drcp.data=/home/ratna/lotus/Sametime -Dosgi.splashPath=platform:/base/../../shared/eclipse/plugins/com.ibm.collaboration.realtime.application -Dcom.ibm.rcp.install.id=1302759834 -Drcp.install.config=multiuser -Declipse.registry.nulltoken=true -Dcom.ibm.pvc.webcontainer.useLocalAddress=true -Dautopd.logfile.generations=3 -Dcom.ibm.pvc.webcontainer.http.address=localhost -Dosgi.nl.user=true -Dautopd.instance.area=/home/ratna/lotus/Sametime/autopd -Dorg.eclipse.swt.browser.XULRunnerPath=/opt/ibm/lotus/Sametime/rcp/eclipse/plugins/com.ibm.rcp.xulrunner.runtime.linux.x86_6.2.3.20110414-1652/xulrunner -Djava.util.logging.config.class=com.ibm.rcp.core.internal.logger.boot.LoggerConfig -Dcom.ibm.pvc.webcontainer.ssl.configfile=/opt/ibm/lotus/Sametime/rcp/sslconfig.properties -Dcom.ibm.pvc.webcontainer.port=0,59449 -Dcom.ibm.pvc.webcontainer.vhost.configfile=/opt/ibm/lotus/Sametime/shared/eclipse/plugins/com.ibm.collaboration.realtime.webapi_8.5.2.20110516-1528/virtualhost.properties -Dcom.ibm.pvc.webcontainer.port.secure=59669 -Djava.security.properties=file:/opt/ibm/lotus/Sametime/rcp/eclipse/plugins/com.ibm.rcp.base_6.2.3.20110414-1652/rcp.security.properties -Dcom.lotus.sametime.skipRandomGeneratorSeed=true -Dosgiagent.disable.popup=true -Dapache.commons.httpclient.cookiespec=COMPATIBILITY -Dable
+9560/8627 + sametime_idlemo + ratna:ratna + 0 + /opt/ibm/lotus/Sametime/shared/eclipse/plugins/com.ibm.collaboration.realtime.activitymonitor.gtk.linux.x86_8.5.2.20110516-1528/sametime_idlemon 20
+9808/8627 + namedPipe.sh + ratna:ratna + 0 + /bin/bash /opt/ibm/lotus/Sametime/shared/eclipse/plugins/com.ibm.collaboration.realtime.core_8.5.2.20161208-2145/namedPipe.sh /tmp/stp.8627
+10134/24684 + chrome + root:root + 0 + 
+10611/2 + kworker/0:2 + root:root + 0 + 
+11021/1 + evince + ratna:ratna + 0 + evince /home/ratna/Desktop/Oz/fia/docs/satyam_relieving.pdf
+11090/2 + kworker/u16:3 + root:root + 0 + 
+11270/2 + kworker/u17:0 + root:root + 0 + 
+11921/2 + kworker/0:3 + root:root + 0 + 
+12675/2 + kworker/2:0 + root:root + 0 + 
+12687/2 + kworker/2:2 + root:root + 0 + 
+12969/1 + virt-manager + ratna:ratna + 0 + /usr/bin/python2 /usr/share/virt-manager/virt-manager
+13010/2 + kworker/u16:0 + root:root + 0 + 
+13079/2 + kworker/u17:4 + root:root + 0 + 
+13453/2 + kworker/3:2 + root:root + 0 + 
+13455/2 + kworker/1:1 + root:root + 0 + 
+13468/2 + kworker/1:3 + root:root + 0 + 
+13804/24684 + chrome + root:root + 0 + 
+13997/2 + kworker/0:0 + root:root + 0 + 
+14264/7218 + ibm-file-sharin + ratna:ratna + 0 + /opt/ibm-kvm-samba/bin/ibm-file-sharing -DFS -s /home/ratna/.ibm-kvm-samba/smb.conf
+14427/1712 + sleep + root:root + 0 + sleep 60
+14437/31971 + python + ratna:ratna + 34821 + python /usr/bin/aperc
+14492/1 + trc_base + root:root + 0 + /opt/ibm/trc/target/trc_base -s
+14518/1 + evince + ratna:ratna + 0 + evince /home/ratna/Desktop/Oz/acs/approved/DevOps_Ratna_boddu_CV.pdf
+14623/14492 + trc_gui + ratna:root + 0 + /opt/ibm/trc/target/trc_gui -lR=Weekly -ll=2 -s -c -p=46548 -i='/opt/ibm/trc/target' -f='/var/opt/ibm/trc/target/filetransfer' -h='https://w3-connections.ibm.com/communities/community/ayudame'
+14875/1755 + dhclient + root:root + 0 + /sbin/dhclient -d -q -sf /usr/libexec/nm-dhcp-helper -pf /var/run/dhclient-wlp3s0.pid -lf /var/lib/NetworkManager/dhclient-7c875f78-4723-413a-8b72-899f3f22618a-wlp3s0.lease -cf /var/lib/NetworkManager/dhclient-wlp3s0.conf wlp3s0
+16841/1 + evince + ratna:ratna + 0 + evince /home/ratna/Desktop/Oz/fia/docs/ratboddu_passport.pdf
+17061/5795 + gvfsd-http + ratna:ratna + 0 + /usr/libexec/gvfsd-http --spawner :1.3 /org/gtk/gvfs/exec_spaw/12
+17445/1 + packagekitd + root:root + 0 + /usr/libexec/packagekitd
+18765/2 + irq/42-mei_me + root:root + 0 + 
+18828/2 + hci0 + root:root + 0 + 
+18833/2 + hci0 + root:root + 0 + 
+18877/9808 + namedPipe.sh + ratna:ratna + 0 + /bin/bash /opt/ibm/lotus/Sametime/shared/eclipse/plugins/com.ibm.collaboration.realtime.core_8.5.2.20161208-2145/namedPipe.sh /tmp/stp.8627
+18878/18877 + cat + ratna:ratna + 0 + cat /tmp/stp.8627
+18910/1 + qemu-kvm + qemu:qemu + 0 + /usr/libexec/qemu-kvm -name Virtual_Client_Windows_7-2018-05-10-d-KVM -S -machine rhel6.4.0,accel=kvm,usb=off,dump-guest-core=off -cpu Broadwell-IBRS,+vme,+ds,+acpi,+ss,+ht,+tm,+pbe,+dtes64,+monitor,+ds_cpl,+vmx,+smx,+est,+tm2,+xtpr,+pdcm,+osxsave,+f16c,+rdrand,+arat,+tsc_adjust,+md-clear,+stibp,+ssbd,+xsaveopt,+pdpe1gb,+abm -m 4096 -realtime mlock=off -smp 2,sockets=2,cores=1,threads=1 -uuid 04655657-d275-4c7a-a442-7262e531015f -no-user-config -nodefaults -chardev socket,id=charmonitor,path=/var/lib/libvirt/qemu/domain-2-Virtual_Client_Windo/monitor.sock,server,nowait -mon chardev=charmonitor,id=monitor,mode=control -rtc base=localtime -no-shutdown -boot strict=on -device ich9-usb-ehci1,id=usb,bus=pci.0,addr=0x8.0x7 -device ich9-usb-uhci1,masterbus=usb.0,firstport=0,bus=pci.0,multifunction=on,addr=0x8 -device ich9-usb-uhci2,masterbus=usb.0,firstport=2,bus=pci.0,addr=0x8.0x1 -device ich9-usb-uhci3,masterbus=usb.0,firstport=4,bus=pci.0,addr=0x8.0x2 -device virtio-serial-pci,id=virtio-serial0,bus=pci.0,addr=0x5 -drive file=/var/lib/libvirt/images/Virtual_Client_Windows_7-2018-05-10-d-KVM.qcow2,format=qcow2,if=none,id=drive-virtio-disk0,cache=writeback -device virtio-blk-pci,scsi=off,bus=pci.0,addr=0x6,drive=drive-virtio-disk0,id=virtio-disk0,bootindex=1 -drive if=none,id=drive-ide0-1-0,readonly=on -device ide-cd,bus=ide.1,unit=0,drive=drive-ide0-1-0,id=ide0-1-0 -netdev tap,fd=29,id=hostnet0,vhost=on,vhostfd=31 -device virtio-net-pci,netdev=hostnet0,id=net0,mac=52:54:00:6a:55:7f,bus=pci.0,addr=0x3 -chardev pty,id=charserial0 -device isa-serial,chardev=charserial0,id=serial0 -chardev pty,id=charchannel0 -device virtserialport,bus=virtio-serial0.0,nr=1,chardev=charchannel0,id=channel0,name=arbitrary.virtio.serial.port.name -chardev spicevmc,id=charchannel1,name=vdagent -device virtserialport,bus=virtio-serial0.0,nr=2,chardev=charchannel1,id=channel1,name=com.redhat.spice.0 -chardev socket,id=charchannel2,path=/var/lib/libvirt/qemu/channel/target/domain-2-Virtual_Client_Windo/org.qemu.guest_agent.0,server,nowait -dev
+18922/2 + vhost-18910 + root:root + 0 + 
+18927/2 + kvm-pit/18910 + root:root + 0 + 
+18984/2 + kworker/u16:1 + root:root + 0 + 
+19282/1 + rpcbind + root:root + 0 + /sbin/rpcbind -w
+19742/5795 + gvfsd-network + ratna:ratna + 0 + /usr/libexec/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/2
+19899/5795 + gvfsd-dnssd + ratna:ratna + 0 + /usr/libexec/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/11
+21726/2 + kworker/u17:3 + root:root + 0 + 
+23237/6972 + gnome-software. + ratna:ratna + 0 + /usr/bin/gnome-software.bin --gapplication-service
+24637/6456 + chrome + ratna:ratna + 0 + /opt/google/chrome/chrome
+24652/24637 + cat + ratna:ratna + 0 + cat
+24653/24637 + cat + ratna:ratna + 0 + cat
+24661/24637 + chrome-sandbox + root:root + 0 + /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+24662/24661 + chrome + ratna:ratna + 0 + "/opt/google/chrome/chrome --type=zygote"
+24681/24662 + chrome-sandbox + root:root + 0 + /opt/google/chrome/chrome-sandbox /opt/google/chrome/nacl_helper
+24682/24681 + nacl_helper + root:root + 0 + /opt/google/chrome/nacl_helper
+24684/24662 + chrome + root:root + 0 + "/opt/google/chrome/chrome --type=zygote"
+24704/24637 + chrome + ratna:ratna + 0 + 
+24710/24637 + chrome + ratna:ratna + 0 + 
+24865/24684 + chrome + root:root + 0 + 
+24875/24684 + chrome + root:root + 0 + 
+24979/24704 + chrome + ratna:ratna + 0 + "/opt/google/chrome/chrome --type=broker"
+25154/1 + vpnagentd + root:root + 0 + /opt/cisco/anyconnect/bin/vpnagentd
+25234/1 + ciscod + root:root + 0 + /opt/cisco/hostscan/bin/ciscod
+25526/1 + nautilus + ratna:ratna + 0 + /usr/bin/nautilus --gapplication-service
+25661/1 + oosplash + ratna:ratna + 0 + /usr/lib64/libreoffice/program/oosplash --writer file:///home/ratna/Desktop/avatar/Agenda%20Draft-Ratna.doc
+25680/25661 + soffice.bin + ratna:ratna + 0 + /usr/lib64/libreoffice/program/soffice.bin --writer file:///home/ratna/Desktop/avatar/Agenda%20Draft-Ratna.doc --splash-pipe=5
+25897/6530 + bash + ratna:ratna + 34819 + bash
+27471/2 + iprt-VBoxWQueue + root:root + 0 + 
+27475/2 + iprt-VBoxTscThr + root:root + 0 + 
+27764/6530 + bash + ratna:ratna + 34816 + bash
+29571/24684 + chrome + root:root + 0 + 
+30067/1 + evince + ratna:ratna + 0 + evince "/tmp/mozilla_ratna0/Guidelines for DS 160 - 2013.pdf"
+31971/6530 + bash + ratna:ratna + 34821 + bash
+32564/2 + kworker/3:0 + root:root + 0 + 
